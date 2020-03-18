@@ -22,10 +22,10 @@ Estou iniciando minha carreria de Data Science, com grandes ideias para ajudar a
 Veja os artigos e projetos publicados:
 
 **Artigos:
-* **Melhore a qualidade do código com estas dicas - Clean Code:**https://medium.com/@rafaelgmrsa/melhore-a-qualidade-do-c%C3%B3digo-com-estas-dicas-clean-code-b00c70752ff7
+* **Melhore a qualidade do código com estas dicas - Clean Code:** https://medium.com/@rafaelgmrsa/melhore-a-qualidade-do-c%C3%B3digo-com-estas-dicas-clean-code-b00c70752ff7
 
 **Projetos:**
-* **Projeto Titanic:**https://github.com/rafaelalmeida12/Projetos_Data_Science/blob/master/Titanic.ipynb
+* **Projeto Titanic:** https://github.com/rafaelalmeida12/Projetos_Data_Science/blob/master/Titanic.ipynb
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
