@@ -2,11 +2,11 @@
 
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-Sou formado em sistema de informação na faculdade uniron (Rondônia) ano de conclusão 2018, no momento estou finalizando pós-graduação em Engenhraria de Dados na universidade IGTI (Belo Horizonte - MG ).
+Sou graduado no curso de  sistema de informação na faculdade uniron (Rondônia), ano de conclusão 2018, com pós-graduação em Engenhraria de Dados na universidade IGTI (Belo Horizonte - MG ).
 
-Estou iniciando minha carreria de Data Science, com grandes ideias para ajudar a organização as compreender e buscar novas informações ou insight dos seus dados .
-
-**Background in:** Python, Machine Learning, Big Data , Hadoop , Pandas , Power BI.
+Um jovem que busca não ficar na zona de conforto. Saiu da casa do pais para buscar melhores condições de estudos.
+Inicie no mundo de desenvolvimento no ano de 2018 como estagiário ainda cursando a faculdade de sistemas de informação e desde lá procurando sempre evoluir.
+Oque me motiva é trabalhar em ambientes onde possui uma boa comunicação entre a equipe, onde todos estão dispostos a evoluir, a empatia, e a busca sempre do conhecimento, feedbacks são necessarios para uma melhoria contínua.Um 
 
 **Links:**
 * 
