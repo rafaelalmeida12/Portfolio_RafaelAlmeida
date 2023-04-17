@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" >
-</p>
-
 # Rafael Almeida
 
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
